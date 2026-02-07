@@ -1,0 +1,105 @@
+{
+  "cookies": [
+    {
+      "name": "openscreen_user",
+      "value": "a07a7b35-e0d5-4ec4-a60b-783f8b814fbb",
+      "domain": "internal.openscreen-dev.com",
+      "path": "/do_not_send",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "openscreen_user",
+      "value": "92e0ffc9-e526-4a89-b9c2-a5a531ce74fc",
+      "domain": ".openscreen-dev.com",
+      "path": "/do_not_send",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "openscreen_user",
+      "value": "db2a0e05-b8fc-4a46-b106-70d8f5fafd93",
+      "domain": ".openscreen-staging.com",
+      "path": "/do_not_send",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "openscreen_user",
+      "value": "db2a0e05-b8fc-4a46-b106-70d8f5fafd93",
+      "domain": ".openscreen.com",
+      "path": "/do_not_send",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "openscreen_scope",
+      "value": "API",
+      "domain": "internal.openscreen-dev.com",
+      "path": "/do_not_send",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "openscreen_scope",
+      "value": "API",
+      "domain": ".openscreen-dev.com",
+      "path": "/do_not_send",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "openscreen_scope",
+      "value": "API",
+      "domain": ".openscreen-staging.com",
+      "path": "/do_not_send",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "openscreen_scope",
+      "value": "API",
+      "domain": ".openscreen.com",
+      "path": "/do_not_send",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "openscreen_refresh",
+      "value": "U2FsdGVkX197zAZRohUs0EnPvG7YOURkEAj+349gp7vVZDZ0RNgQJ1xtYy7Bdo/Cy8xP20rRpaaTf4lgV70SnTrfbymTM2AEIiZ/4j2Lez5yHSTfdL+jlhSoTEKF7atfQYL017dF7jnZNHp+0lg6DDrTbVwYdXN5PvPo7z2rfwPQkzxNak/n0PxivnzWelr/lWKMf9G5wkzxsQ3KmFUc9w==",
+      "domain": ".openscreen.com",
+      "path": "/auth/session/refresh",
+      "expires": 1768690322,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "openscreen_access",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RfMzgrcGxheXdyaWdodEBvcGVuc2NyZWVuLmNvbSIsImV4cCI6MTc2ODU5NzkyMiwiZXhwaXJlcyI6MTc2ODU5NzkyMjA4MywiZ3JvdXBzIjoiYXBwdXNlciIsInNjb3BlIjoiQVBJIiwidGltZXN0YW1wIjoxNzU0OTE5Njg3MTg2LCJpYXQiOjE3Njg1OTY3MjIsImlzcyI6Imh0dHBzOi8vaW50ZXJuYWwuc3Qub3BlbnNjcmVlbi5jb20iLCJzdWIiOiJkYjJhMGUwNS1iOGZjLTRhNDYtYjEwNi03MGQ4ZjVmYWZkOTMifQ.AdxOBKhfp-ael9sWk_hQzC5C3Cd1RJZHbJclTz4dIcQ",
+      "domain": ".openscreen.com",
+      "path": "/",
+      "expires": 1768597922,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    }
+  ],
+  "origins": []
+}
